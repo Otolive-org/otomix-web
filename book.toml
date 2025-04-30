@@ -1,0 +1,13 @@
+[book]
+authors = ["MixBadGun"]
+language = "en"
+multilingual = false
+src = "src"
+title = "音MAD MIX 活动"
+
+[preprocessor.theme]
+pagetoc = true
+
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js = ["theme/pagetoc.js"]
