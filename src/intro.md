@@ -53,20 +53,65 @@
 
 选取不同的音MAD作品，在原本作品的基础上加工，进行再编排混音，统一节奏，简单来说就是“以音MAD为素材”的新作。
 
-Slow Dance w/u：https://www.bilibili.com/video/BV11o5Zz8Edc
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV11o5Zz8Edc">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/ece5c792a920b35cc753af68eac2ad12d4f54ec1.jpg@.webp" class="cover">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/ece5c792a920b35cc753af68eac2ad12d4f54ec1.jpg@.webp" class="cover-bg">
+        <div class="text">
+            <p>Slow Dance w/u</p>
+            <p>BV11o5Zz8Edc</p>
+        </div>
+    </a>
+</div>
 
-音MADmix.啊：https://www.bilibili.com/video/BV16a4y127aY/
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV16a4y127aY/">
+        <img loading="lazy" src="https://i2.hdslb.com/bfs/archive/afcee584a4ee2ea9125f8ed133709816d6739757.jpg@.webp" class="cover">
+        <img loading="lazy" src="https://i2.hdslb.com/bfs/archive/afcee584a4ee2ea9125f8ed133709816d6739757.jpg@.webp" class="cover-bg">
+        <div class="text">
+            <p>音MADmix.啊</p>
+            <p>BV16a4y127aY</p>
+        </div>
+    </a>
+</div>
 
-YTPMV-mix.nerdtronics3：https://www.bilibili.com/video/BV1PW52zsEMw
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1PW52zsEMw/">
+        <img loading="lazy" src="https://i0.hdslb.com/bfs/archive/622c2a099871afc922387852a6890a80bf5854c3.jpg@.webp" class="cover">
+        <img loading="lazy" src="https://i0.hdslb.com/bfs/archive/622c2a099871afc922387852a6890a80bf5854c3.jpg@.webp" class="cover-bg">
+        <div class="text">
+            <p>YTPMV-mix.nerdtronics3</p>
+            <p>BV1PW52zsEMw</p>
+        </div>
+    </a>
+</div>
 
-音MAD-mix.新家：https://www.bilibili.com/video/BV1w9iFeWExy
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1w9iFeWExy/">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/20b5645c104af4ae3a3e449218a8abb51338cbc7.jpg@.webp" class="cover">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/20b5645c104af4ae3a3e449218a8abb51338cbc7.jpg@.webp" class="cover-bg">
+        <div class="text">
+            <p>音MAD-mix.新家</p>
+            <p>BV1w9iFeWExy</p>
+        </div>
+    </a>
+</div>
 
 **2，DJ SET类作品**
 
 将多个音MAD作品编排混搭，连续放映，由DJ在台上带动氛围，注重现场效果的作品。
 对比音MAD-MIX时间更长，结构更松散。
 
-【官录】nerdtronics3：https://www.bilibili.com/video/BV17NLBztE6z
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV17NLBztE6z/">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/84f8cef2086a7ded6078eca6b08a5c69ba84c4e8.jpg@.webp" class="cover">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/84f8cef2086a7ded6078eca6b08a5c69ba84c4e8.jpg@.webp" class="cover-bg">
+        <div class="text">
+            <p>【官录】nerdtronics3</p>
+            <p>BV17NLBztE6z</p>
+        </div>
+    </a>
+</div>
 
 2p 4:15 - 31:10 作者：owatax
 
@@ -82,27 +127,70 @@ YTPMV-mix.nerdtronics3：https://www.bilibili.com/video/BV1PW52zsEMw
 
 *（补充说明：此为活动的全程录播，具体的djset作品请看以上时间戳）*
 
-【소리믹스/SORIMIX】Random Access Otomaders：
-https://www.youtube.com/watch?v=dFEdCZ_AZck
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=dFEdCZ_AZck">
+        <img loading="lazy" src="https://i.ytimg.com/vi/dFEdCZ_AZck/hqdefault.jpg" class="cover">
+        <img loading="lazy" src="https://i.ytimg.com/vi/dFEdCZ_AZck/hqdefault.jpg" class="cover-bg">
+        <div class="text">
+            <p>【소리믹스/SORIMIX】Random Access Otomaders</p>
+            <p>https://www.youtube.com/watch?v=dFEdCZ_AZck</p>
+        </div>
+    </a>
+</div>
 
-【音MAD/IIDX音乐の何意味混音带】OwOs Radio Vol.3 || Mixed By Kakenhi：
-https://www.bilibili.com/video/BV1251uYWETo
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1251uYWETo/">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/3b713cbd90fb4879d7c29c1d2c15cf59009b0da5.jpg@.webp" class="cover">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/3b713cbd90fb4879d7c29c1d2c15cf59009b0da5.jpg@.webp" class="cover-bg">
+        <div class="text">
+            <p>【音MAD/IIDX音乐の何意味混音带】OwOs Radio Vol.3 || Mixed By Kakenhi</p>
+            <p>BV1251uYWETo</p>
+        </div>
+    </a>
+</div>
 
 *（本set作品并非完全由音mad组成，但由于其有音mad构成的部分且风格上符合，故作为参考）*
 
 **3，其他适合大银幕播放的作品**
 如EDM类音MAD，SET类的音MAD，合作类音MAD，以及一些虽不严格为音MAD-MIX类或DJ SET类作品但却很适合大荧幕播放，适合带动现场氛围的作品。
 
-From 「华」，For YTPMVs：https://www.bilibili.com/video/BV1PYakePE7Z
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1PYakePE7Z/">
+        <img loading="lazy" src="https://i2.hdslb.com/bfs/archive/cc40f91da5c8878c1ab5fcf8f71c074853b53e90.jpg@.webp" class="cover">
+        <img loading="lazy" src="https://i2.hdslb.com/bfs/archive/cc40f91da5c8878c1ab5fcf8f71c074853b53e90.jpg@.webp" class="cover-bg">
+        <div class="text">
+            <p>From 「华」，For YTPMVs</p>
+            <p>BV1PYakePE7Z</p>
+        </div>
+    </a>
+</div>
 
-150BPM音MAD SET：https://www.bilibili.com/video/BV1LM4m117vr
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1LM4m117vr/">
+        <img loading="lazy" src="https://i0.hdslb.com/bfs/archive/146dba1b87d01440f4ecec11004c320ab7775f9d.jpg@.webp" class="cover">
+        <img loading="lazy" src="https://i0.hdslb.com/bfs/archive/146dba1b87d01440f4ecec11004c320ab7775f9d.jpg@.webp" class="cover-bg">
+        <div class="text">
+            <p>150BPM音MAD SET</p>
+            <p>BV1LM4m117vr</p>
+        </div>
+    </a>
+</div>
 
-冥府专船：https://www.bilibili.com/video/BV1Q3aSehETW/
+<div class="video-card">
+    <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1Q3aSehETW/">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/668967a0de0dcb041474cf241185d16189b5eb43.jpg@.webp" class="cover">
+        <img loading="lazy" src="https://i1.hdslb.com/bfs/archive/668967a0de0dcb041474cf241185d16189b5eb43.jpg@.webp" class="cover-bg">
+        <div class="text">
+            <p>冥府专船</p>
+            <p>BV1Q3aSehETW</p>
+        </div>
+    </a>
+</div>
 
 ### 提交作品的文件格式要求
-音频格式：推荐为48000Hz / 24bit
+音频格式：推荐为 48000Hz / 24bit
 
-视频格式：推荐为16:9 / 1080p / MP4格式 / 30或60fps
+视频格式：推荐为 16:9 / 1080p / MP4格式 / 30或60fps
 
 ---
 
