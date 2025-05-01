@@ -22,9 +22,11 @@
 [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943)
 
 ### 活动运营人员：
-[MoonTDN](https://space.bilibili.com/23655514) QQ:1015706754 
-[FFFanwen](https://space.bilibili.com/3858957) QQ:1912507245 
-[Miskplar](https://space.bilibili.com/386404441) QQ:962550065 
+[MoonTDN](https://space.bilibili.com/23655514) QQ:1015706754
+
+[FFFanwen](https://space.bilibili.com/3858957) QQ:1912507245
+
+[Miskplar](https://space.bilibili.com/386404441) QQ:962550065
 
 ---
 
