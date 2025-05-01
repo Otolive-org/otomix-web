@@ -18,17 +18,17 @@
 
 ### 活动预计举办场所：
 
-[岭南音乐馆](https://www.amap.com/place/B0JB31HE15)
+  • [岭南音乐馆](https://www.amap.com/place/B0JB31HE15)
 
 ### 活动官方账号：
-[LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943)
+  • [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943)
 
 ### 活动运营人员：
-[MoonTDN](https://space.bilibili.com/23655514) QQ:1015706754
+  • [MoonTDN](https://space.bilibili.com/23655514) QQ:1015706754
 
-[FFFanwen](https://space.bilibili.com/3858957) QQ:1912507245
+  • [FFFanwen](https://space.bilibili.com/3858957) QQ:1912507245
 
-[Miskplar](https://space.bilibili.com/386404441) QQ:962550065
+  • [Miskplar](https://space.bilibili.com/386404441) QQ:962550065
 
 ---
 
@@ -66,9 +66,9 @@
 3. 普通的音MAD新作不符合本次活动的要求！请具体参考以下范例作品进行制作。
 
 ### 范例作品
-**1，音MAD-MIX类作品**
+**1. 音MAD-MIX类作品**
 
-选取不同的音MAD作品，在原本作品的基础上加工，进行再编排混音，统一节奏，简单来说就是“以音MAD为素材”的新作。
+  • 选取不同的音MAD作品，在原本作品的基础上加工，进行再编排混音，统一节奏，简单来说就是“以音MAD为素材”的新作。
 
 <div class="video-card">
     <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV11o5Zz8Edc">
@@ -114,11 +114,9 @@
     </a>
 </div>
 
-**2，DJ SET类作品**
+**2. DJ SET类作品**
 
-将多个音MAD作品编排混搭，连续放映，由DJ在台上带动氛围，注重现场效果的作品。
-
-对比音MAD-MIX时间更长，结构更松散。
+  • 将多个音MAD作品编排混搭，连续放映，由DJ在台上带动氛围，注重现场效果的作品。对比音MAD-MIX时间更长，结构更松散。
 
 <div class="video-card">
     <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV17NLBztE6z/">
@@ -169,9 +167,9 @@
 
 *（本set作品并非完全由音mad组成，但由于其有音mad构成的部分且风格上符合，故作为参考）*
 
-**3，其他适合大银幕播放的作品**
+**3. 其他适合大银幕播放的作品**
 
-如EDM类音MAD，SET类的音MAD，合作类音MAD，以及一些虽不严格为音MAD-MIX类或DJ SET类作品但却很适合大荧幕播放，适合带动现场氛围的作品。
+  • 如EDM类音MAD，SET类的音MAD，合作类音MAD，以及一些虽不严格为音MAD-MIX类或DJ SET类作品但却很适合大荧幕播放，适合带动现场氛围的作品。
 
 <div class="video-card">
     <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1PYakePE7Z/">
@@ -215,7 +213,7 @@
 ---
 
 ## 其他注意事项以及FAQ
-##### 1，公开招募的作品是否能作为单品投稿？
+#### 1，公开招募的作品是否能作为单品投稿？
 
 确定为在活动当日播放的作品，请务必不要在活动结束前公开于网络。
 
@@ -223,18 +221,18 @@
 
 未被采用的作品则无要求，可随意公开。
 
-##### 2，提交的作品是否可以做出修改？
+#### 2，提交的作品是否可以做出修改？
 
 提交作品后若想进行修改，请最迟于活动开始前7天前联系运营人员，发送修改的文件。
 
-##### 3，公开招募的稿件是否有数量的限制？
+#### 3，公开招募的稿件是否有数量的限制？
 
 为了将整体活动时长控制在5小时以内，当收到的稿件的整体内容大于5小时后，会对入选作品进行筛选。
 
-##### 4，一个作者是否可以制作或投稿复数的作品于此活动？
+#### 4，一个作者是否可以制作或投稿复数的作品于此活动？
 完全没问题！
 
-##### 5，多人制作的作品是否可以投稿至此活动？
+#### 5，多人制作的作品是否可以投稿至此活动？
 完全没问题！
 
 **更多活动内容请关注账号动态更新...**
