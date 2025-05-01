@@ -1,3 +1,3 @@
 # Summary
 
-- [活动介绍](./intro.md)
+- [活动概要](./intro.md)
