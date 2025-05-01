@@ -18,8 +18,13 @@
 
 [岭南音乐馆](https://www.amap.com/place/B0JB31HE15)
 
-### 链接的活动官方账号：
+### 活动官方账号：
 [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943)
+
+### 活动运营人员：
+[MoonTDN](https://space.bilibili.com/23655514) QQ:1015706754
+[FFFanwen](https://space.bilibili.com/3858957) QQ:1912507245
+[Miskplar](https://space.bilibili.com/386404441) QQ:962550065
 
 ---
 
@@ -33,7 +38,7 @@
 创作过程中运营将与您进行主题确认，内容指导，进度检查，成品接收等工作。
 
 #### 【自主投稿】
-如果您暂时不确定是否参加，可以在完成作品后联系以下运营成员的QQ号直接投稿。
+如果您暂时不确定是否参加，可以在完成作品后联系上方运营成员的QQ号直接投稿。
 
 #### 【筛选条件】
 
