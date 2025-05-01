@@ -1,6 +1,5 @@
 # 音MAD活动：LIVE
 
----
 
 ## 活动概要
 
@@ -29,6 +28,7 @@
   • [FFFanwen](https://space.bilibili.com/3858957) QQ:1912507245
 
   • [Miskplar](https://space.bilibili.com/386404441) QQ:962550065
+
 
 ---
 
@@ -209,6 +209,7 @@
   • 音频格式：推荐为 48000Hz / 24bit
 
   • 视频格式：推荐为 16:9 / 1080p / MP4格式 / 30或60fps
+
 
 ---
 
