@@ -18,17 +18,17 @@
 
 ### 活动预计举办场所：
 
-•[岭南音乐馆](https://www.amap.com/place/B0JB31HE15)
+  • [岭南音乐馆](https://www.amap.com/place/B0JB31HE15)
 
 ### 活动官方账号：
-•[LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943)
+  • [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943)
 
 ### 活动运营人员：
-•[MoonTDN](https://space.bilibili.com/23655514) QQ:1015706754
+  • [MoonTDN](https://space.bilibili.com/23655514) QQ:1015706754
 
-•[FFFanwen](https://space.bilibili.com/3858957) QQ:1912507245
+  • [FFFanwen](https://space.bilibili.com/3858957) QQ:1912507245
 
-•[Miskplar](https://space.bilibili.com/386404441) QQ:962550065
+  • [Miskplar](https://space.bilibili.com/386404441) QQ:962550065
 
 ---
 
@@ -68,7 +68,7 @@
 ### 范例作品
 **1. 音MAD-MIX类作品**
 
-•选取不同的音MAD作品，在原本作品的基础上加工，进行再编排混音，统一节奏，简单来说就是“以音MAD为素材”的新作。
+  • 选取不同的音MAD作品，在原本作品的基础上加工，进行再编排混音，统一节奏，简单来说就是“以音MAD为素材”的新作。
 
 Slow Dance w/u：https://www.bilibili.com/video/BV11o5Zz8Edc
 
@@ -80,9 +80,7 @@ YTPMV-mix.nerdtronics3：https://www.bilibili.com/video/BV1PW52zsEMw
 
 **2. DJ SET类作品**
 
-•将多个音MAD作品编排混搭，连续放映，由DJ在台上带动氛围，注重现场效果的作品。
-
-对比音MAD-MIX时间更长，结构更松散。
+  • 将多个音MAD作品编排混搭，连续放映，由DJ在台上带动氛围，注重现场效果的作品。对比音MAD-MIX时间更长，结构更松散。
 
 【官录】nerdtronics3：https://www.bilibili.com/video/BV17NLBztE6z
 
@@ -110,7 +108,7 @@ https://www.bilibili.com/video/BV1251uYWETo
 
 **3. 其他适合大银幕播放的作品**
 
-•如EDM类音MAD，SET类的音MAD，合作类音MAD，以及一些虽不严格为音MAD-MIX类或DJ SET类作品但却很适合大荧幕播放，适合带动现场氛围的作品。
+  • 如EDM类音MAD，SET类的音MAD，合作类音MAD，以及一些虽不严格为音MAD-MIX类或DJ SET类作品但却很适合大荧幕播放，适合带动现场氛围的作品。
 
 From 「华」，For YTPMVs：https://www.bilibili.com/video/BV1PYakePE7Z
 
