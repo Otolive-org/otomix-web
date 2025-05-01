@@ -10,18 +10,43 @@
     main {
         position: relative;
     }
+
     .sidetoc {
-        margin-left: auto;
-        margin-right: auto;
-        /* left: calc(90% + (var(--content-min-width))/4 - 110px); */
-        left: 101%;
-        position: absolute;
-        font-size: var(--pagetoc-fontsize);
-    }
-    .pagetoc {
         position: fixed;
+        font-size: var(--pagetoc-fontsize);
+        height: 100%;
+        top: 0;
+        right: 0;
+        z-index: 10;
+        display: flex;
+        align-items: center;
         width: var(--pagetoc-width);
     }
+    .pagetoc {
+        height: 80vh;
+        overflow-y: scroll;
+        width: 100%;
+        opacity: 0;
+        transition: all 0.2s;
+        border-radius: 8px;
+        background: var(--sidebar-bg);
+    }
+
+    .pagetoc:hover {
+        opacity: 1;
+    }
+
+    ::-webkit-scrollbar {
+        width: 5px;
+        height: 10px;
+        background-color: none;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        background-color: rgba(0, 0, 0, 0.2);
+    }
+
     .pagetoc a {
         border-left: 1px solid var(--sidebar-bg);
         /* color: var(--fg); */
