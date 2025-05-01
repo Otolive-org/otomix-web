@@ -3,7 +3,7 @@ authors = ["MixBadGun"]
 language = "en"
 multilingual = false
 src = "src"
-title = "音MAD活动：MIX"
+title = "音MAD活动：LIVE"
 
 [preprocessor.theme]
 pagetoc = true
