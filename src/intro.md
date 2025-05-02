@@ -23,15 +23,12 @@
   • [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943)
 
 ### 活动运营人员：
-  • [MoonTDN](https://space.bilibili.com/23655514)  • [Esatain](https://space.bilibili.com/16455886)
+  • [MoonTDN](https://space.bilibili.com/23655514)   • [Esatain](https://space.bilibili.com/16455886)   • [铝合金键盘](https://space.bilibili.com/23211210)
 
-  • [FFFanwen](https://space.bilibili.com/3858957)  • [DaKeYoob74](https://space.bilibili.com/11560725)
+  • [FFFanwen](https://space.bilibili.com/3858957)   • [DaKeYoob74](https://space.bilibili.com/11560725)   • [青枫愁云](https://space.bilibili.com/3546394121996454)
 
-  • [Miskplar](https://space.bilibili.com/386404441)  • [坏枪](https://space.bilibili.com/6636705)
+  • [Miskplar](https://space.bilibili.com/386404441)   • [坏枪](https://space.bilibili.com/6636705)   • [大骗子不吃P](https://space.bilibili.com/22571636)
 
-  • [铝合金键盘](https://space.bilibili.com/23211210)  • [大骗子不吃P](https://space.bilibili.com/22571636)
-
-  • [青枫愁云](https://space.bilibili.com/3546394121996454)
 
 
 ---
