@@ -40,7 +40,7 @@
 
 如果您想现在就报名参加的话，就请点击下面的链接填写相关问卷参与活动吧！
 
-[音MAD活动：LIVE 信息收集表](https://docs.qq.com/form/page/DZXFJbVNncG1BRnpL)
+<f>[音MAD活动：LIVE 信息收集表](https://docs.qq.com/form/page/DZXFJbVNncG1BRnpL)</f>
 
 提交成功则视为报名，运营将与您取得联系。
 

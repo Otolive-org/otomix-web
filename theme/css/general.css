@@ -328,3 +328,25 @@ main h1 {
         font-size: 13px;
     }
 }
+
+f {
+    display: inline-block;
+    border-radius: 0.5em;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .18);
+    border: 2px solid var(--quote-border);
+    transition: all 0.2s;
+    overflow: hidden;
+    a {
+        display: block;
+        padding: 1em;
+        background-color: var(--quote-bg);
+        text-decoration: none!important;
+        color: var(--fg)!important;
+        font-weight: bold;
+    }
+}
+
+f:hover {
+    transform: scale(1.01);
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, .25);
+}
