@@ -76,31 +76,6 @@
     </div>
     <div class="name-card">
         <div class="avatar">
-            <img src="https://i0.hdslb.com/bfs/face/997d7a5483ae64ef44c9edfdafb93f526a9f748b.jpg">
-        </div>
-        <div class="card-inner">
-            <div class="card-back-text">
-                运营人员
-            </div>
-            <div class="card-name">铝合金键盘</div>
-            <div class="card-link">
-                <div class="card-item">
-                    <img src="./assets/svg/bilibili.svg">
-                    <a href="https://space.bilibili.com/23211210" target="_blank">bilibili</a>
-                </div>
-                <!-- <div class="card-item">
-                    <img src="./assets/svg/niconico.svg">
-                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
-                </div>
-                <div class="card-item">
-                    <img src="./assets/svg/youtube.svg">
-                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
-                </div> -->
-            </div>
-        </div>
-    </div>
-    <div class="name-card">
-        <div class="avatar">
             <img src="https://i0.hdslb.com/bfs/face/441c9ea102233349486af1bb4b2a988f6b3dda3b.jpg">
         </div>
         <div class="card-inner">
@@ -286,6 +261,9 @@
    
 3. 普通的音MAD新作不符合本次活动的要求！请具体参考以下范例作品进行制作。
 
+4. 提交的作品为现场能直接播放的不分段的完整成品，成品需同时具有音频与视频。（5.17追加）
+
+
 ### 范例作品
 **1. 音MAD-MIX类作品**
 
@@ -335,9 +313,9 @@
     </a>
 </div>
 
-**2. DJ SET类作品**
+**2. 类DJ音MAD SET作品**
 
-  • 将多个音MAD作品编排混搭，连续放映，由DJ在台上带动氛围，注重现场效果的作品。对比音MAD-MIX时间更长，结构更松散。
+  • 将多个音MAD作品编排混搭，连续放映，可由作者在台上带动氛围，注重现场效果的作品。对比音MAD-MIX时间更长，结构更松散。
 
 <div class="video-card">
     <a rel="noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV17NLBztE6z/">
