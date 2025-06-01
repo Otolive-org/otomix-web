@@ -23,13 +23,233 @@
   • [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943)
 
 ### 活动运营人员：
-  • [MoonTDN](https://space.bilibili.com/23655514)    • [Esatain](https://space.bilibili.com/16455886)    • [铝合金键盘](https://space.bilibili.com/23211210)
-
-  • [FFFanwen](https://space.bilibili.com/3858957)    • [DaKeYoob74](https://space.bilibili.com/11560725)    • [青枫愁云](https://space.bilibili.com/3546394121996454)
-
-  • [Miskplar](https://space.bilibili.com/386404441)    • [坏枪](https://space.bilibili.com/6636705)    • [大骗子不吃P](https://space.bilibili.com/22571636)
-
-
+<div class="name-card-box">
+    <div class="name-card">
+        <div class="avatar">
+            <img src="https://i0.hdslb.com/bfs/face/33f0f4dbb69fef029f923aba4aee88782803191e.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                运营人员
+            </div>
+            <div class="card-name">MoonTDN</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/23655514" target="_blank">bilibili</a>
+                </div>
+                <!-- <div class="card-item">
+                    <img src="./assets/svg/niconico.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
+                </div>
+                <div class="card-item">
+                    <img src="./assets/svg/youtube.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <div class="name-card">
+        <div class="avatar">
+            <img src="https://i0.hdslb.com/bfs/face/926851640dff296dcff7c57c8b27efa277998a9d.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                运营人员
+            </div>
+            <div class="card-name">Esatain</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/16455886" target="_blank">bilibili</a>
+                </div>
+                <!-- <div class="card-item">
+                    <img src="./assets/svg/niconico.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
+                </div>
+                <div class="card-item">
+                    <img src="./assets/svg/youtube.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <div class="name-card">
+        <div class="avatar">
+            <img src="https://i0.hdslb.com/bfs/face/997d7a5483ae64ef44c9edfdafb93f526a9f748b.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                运营人员
+            </div>
+            <div class="card-name">铝合金键盘</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/23211210" target="_blank">bilibili</a>
+                </div>
+                <!-- <div class="card-item">
+                    <img src="./assets/svg/niconico.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
+                </div>
+                <div class="card-item">
+                    <img src="./assets/svg/youtube.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <div class="name-card">
+        <div class="avatar">
+            <img src="https://i0.hdslb.com/bfs/face/441c9ea102233349486af1bb4b2a988f6b3dda3b.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                运营人员
+            </div>
+            <div class="card-name">FFFanwen</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">bilibili</a>
+                </div>
+                <!-- <div class="card-item">
+                    <img src="./assets/svg/niconico.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
+                </div>
+                <div class="card-item">
+                    <img src="./assets/svg/youtube.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <div class="name-card">
+        <div class="avatar">
+            <img src="https://i0.hdslb.com/bfs/face/83759282fe66f6075396fa22dbb9e85c7ea38751.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                运营人员
+            </div>
+            <div class="card-name">DaKeYoob74</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/11560725" target="_blank">bilibili</a>
+                </div>
+                <!-- <div class="card-item">
+                    <img src="./assets/svg/niconico.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
+                </div>
+                <div class="card-item">
+                    <img src="./assets/svg/youtube.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <div class="name-card">
+        <div class="avatar">
+            <img src="https://i0.hdslb.com/bfs/face/8f39809f655f8bb95d1041d76cb91a1a3c5470fc.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                运营人员
+            </div>
+            <div class="card-name">青枫愁云</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/3546394121996454" target="_blank">bilibili</a>
+                </div>
+                <!-- <div class="card-item">
+                    <img src="./assets/svg/niconico.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
+                </div>
+                <div class="card-item">
+                    <img src="./assets/svg/youtube.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <div class="name-card">
+        <div class="avatar">
+            <img src="https://i0.hdslb.com/bfs/face/5c0f8ccaeb7c2dbd72d1cb0fa90a663f4ccd080a.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                运营人员
+            </div>
+            <div class="card-name">Miskplar</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/386404441" target="_blank">bilibili</a>
+                </div>
+                <!-- <div class="card-item">
+                    <img src="./assets/svg/niconico.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
+                </div>
+                <div class="card-item">
+                    <img src="./assets/svg/youtube.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <div class="name-card">
+        <div class="avatar">
+            <img src="https://i0.hdslb.com/bfs/face/df2c7b48c10adfb2c6163e109bdb613fdb3fe71f.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                运营人员
+            </div>
+            <div class="card-name">坏枪</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/6636705" target="_blank">bilibili</a>
+                </div>
+                <!-- <div class="card-item">
+                    <img src="./assets/svg/niconico.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
+                </div>
+                <div class="card-item">
+                    <img src="./assets/svg/youtube.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <div class="name-card">
+        <div class="avatar">
+            <img src="https://i0.hdslb.com/bfs/face/91d7ccdf253eb6962a813dec9898b191da67019b.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                运营人员
+            </div>
+            <div class="card-name">大骗子不吃P</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/22571636" target="_blank">bilibili</a>
+                </div>
+                <!-- <div class="card-item">
+                    <img src="./assets/svg/niconico.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">niconico</a>
+                </div>
+                <div class="card-item">
+                    <img src="./assets/svg/youtube.svg">
+                    <a href="https://space.bilibili.com/3858957" target="_blank">youtube</a>
+                </div> -->
+            </div>
+        </div>
+    </div>
+</div>
 
 ---
 

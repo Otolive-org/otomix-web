@@ -29,6 +29,7 @@
         <link rel="stylesheet" href="{{ resource "css/variables.css" }}">
         <link rel="stylesheet" href="{{ resource "css/general.css" }}">
         <link rel="stylesheet" href="{{ resource "css/chrome.css" }}">
+        <link rel="stylesheet" href="{{ resource "assets/css/custom.css" }}">
         {{#if print_enable}}
         <link rel="stylesheet" href="{{ resource "css/print.css" }}" media="print">
         {{/if}}
@@ -97,12 +98,13 @@
         <script>
             var sidebar = null;
             var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
-            if (document.body.clientWidth >= 1080) {
+            /* if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
             } else {
                 sidebar = 'hidden';
-            }
+            } */
+            sidebar = 'hidden';
             sidebar_toggle.checked = sidebar === 'visible';
             html.classList.remove('sidebar-visible');
             html.classList.add("sidebar-" + sidebar);
@@ -193,10 +195,10 @@
                 <div>
                     <img class="banner" src="./img/banner.png">
                 </div>
-                <div>
-                    <img class="logo" src="./img/logo.png">
-                </div>
                 <div id="content" class="content">
+                    <div>
+                        <img class="logo" src="./img/logo.png">
+                    </div>
                     <main>
                         <!-- Page table of contents -->
                         <div class="sidetoc"><nav class="pagetoc"></nav></div>
