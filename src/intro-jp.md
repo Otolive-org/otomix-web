@@ -23,10 +23,9 @@
 ![场馆图片](img/locale/image2.jpg)
 ![场馆图片](img/locale/image3.png)
 
-  •　Bilibili生放送
-
 </div>
 
+ •　Bilibili生放送
 ### 公式SNSアカウント：
   <!-- • [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943) -->
   <div class="name-card">
