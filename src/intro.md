@@ -19,8 +19,33 @@
 
   • [岭南音乐馆](https://www.amap.com/place/B0JB31HE15)
 
+<div class="locale-img">
+
+![场馆图片](img/locale/image1.jpg)
+![场馆图片](img/locale/image2.jpg)
+![场馆图片](img/locale/image3.png)
+
+</div>
+
 ### 活动官方账号：
-  • [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943)
+  <!-- • [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943) -->
+  <div class="name-card">
+        <div class="avatar">
+            <img src="https://i2.hdslb.com/bfs/face/9276c0c5db7c78509236aa615838f815b9f77b0f.jpg">
+        </div>
+        <div class="card-inner">
+            <div class="card-back-text">
+                活动官方账号
+            </div>
+            <div class="card-name">LIVE_音MAD暑期活动</div>
+            <div class="card-link">
+                <div class="card-item">
+                    <img src="./assets/svg/bilibili.svg">
+                    <a href="https://space.bilibili.com/3537114090178943" target="_blank">bilibili</a>
+                </div>
+            </div>
+        </div>
+    </div>
 
 ### 活动运营人员：
 <div class="name-card-box">
@@ -224,6 +249,16 @@
             </div>
         </div>
     </div>
+</div>
+
+### 周边展示
+
+<div class="locale-img">
+
+![周边图片](img/item/image1.jpg)
+![周边图片](img/item/image2.jpg)
+![周边图片](img/item/image3.png)
+
 </div>
 
 ---

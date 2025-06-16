@@ -173,3 +173,22 @@ f:hover {
     flex-wrap: wrap;
     gap: 1em;
 }
+
+.locale-img {
+    p {
+        display: flex;
+        gap: 0.8em;
+        /* height: 18em; */
+        padding: 1em;
+        overflow-x: auto;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    img {
+        max-width: 95%;
+        max-height: 18em;
+        border-radius: 0.7em;
+        box-shadow: 0 2px 12px 0 rgba(0, 0, 0, .35);
+    }
+}
