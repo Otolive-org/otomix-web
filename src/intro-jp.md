@@ -35,7 +35,7 @@
         </div>
         <div class="card-inner">
             <div class="card-back-text">
-                活动官方账号
+                公式SNSアカウント
             </div>
             <div class="card-name">LIVE_音MAD暑期活动</div>
             <div class="card-link">
@@ -55,7 +55,7 @@
         </div>
         <div class="card-inner">
             <div class="card-back-text">
-                运营人员
+                運営スタッフ
             </div>
             <div class="card-name">MoonTDN</div>
             <div class="card-link">
@@ -80,7 +80,7 @@
         </div>
         <div class="card-inner">
             <div class="card-back-text">
-                运营人员
+                運営スタッフ
             </div>
             <div class="card-name">Esatain</div>
             <div class="card-link">
@@ -105,7 +105,7 @@
         </div>
         <div class="card-inner">
             <div class="card-back-text">
-                运营人员
+                運営スタッフ
             </div>
             <div class="card-name">FFFanwen</div>
             <div class="card-link">
@@ -130,7 +130,7 @@
         </div>
         <div class="card-inner">
             <div class="card-back-text">
-                运营人员
+                運営スタッフ
             </div>
             <div class="card-name">DaKeYoob74</div>
             <div class="card-link">
@@ -155,7 +155,7 @@
         </div>
         <div class="card-inner">
             <div class="card-back-text">
-                运营人员
+                運営スタッフ
             </div>
             <div class="card-name">青枫愁云</div>
             <div class="card-link">
@@ -180,7 +180,7 @@
         </div>
         <div class="card-inner">
             <div class="card-back-text">
-                运营人员
+                運営スタッフ
             </div>
             <div class="card-name">Miskplar</div>
             <div class="card-link">
@@ -205,7 +205,7 @@
         </div>
         <div class="card-inner">
             <div class="card-back-text">
-                运营人员
+                運営スタッフ
             </div>
             <div class="card-name">坏枪</div>
             <div class="card-link">
@@ -230,7 +230,7 @@
         </div>
         <div class="card-inner">
             <div class="card-back-text">
-                运营人员
+                運営スタッフ
             </div>
             <div class="card-name">大骗子不吃P</div>
             <div class="card-link">
@@ -342,7 +342,9 @@
     </a>
 </div>
 
-**2. 音MAD DJ-mix **
+
+**2. 音MAD DJ-mix**
+
 
   • 数個の音MADをミックス、アレンジをして、現場の盛り上がりなどができる作品。
 
