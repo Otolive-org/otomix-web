@@ -52,7 +52,7 @@
 迷った方はAmapをご利用して、詳しい案内をもらえます。
 
 
- •　Bilibili生放送
+ • Bilibili生放送
 ### 公式SNSアカウント：
   <!-- • [LIVE_音MAD暑期活动](https://space.bilibili.com/3537114090178943) -->
   <div class="name-card">
